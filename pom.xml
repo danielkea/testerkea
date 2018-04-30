@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>demo</name>
-	<description>Demo for dat17v2</description>
+	<description>Demo for dat17v2 version31</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
